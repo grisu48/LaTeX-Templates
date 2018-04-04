@@ -1,0 +1,14 @@
+## gitignore Template file for LaTeX
+
+## Latex auxiliary and temporary files
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+*.spl
+*.log
+*.out
+
+## You propably also want to include your final documents in the ignore list
+# YourDocument.pdf
